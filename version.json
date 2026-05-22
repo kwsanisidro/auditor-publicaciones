@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.0.exe",
-  "novedades": "Version inicial"
+  "version": "1.1",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.1.exe",
+  "novedades": "- Selector de perfiles por oficina\n- Nombre de oficina en archivos y dashboard\n- Selector de carpeta al guardar\n- Boton Nueva auditoria\n- Switch analisis de fotos\n- Graficos de zonas y tipos de propiedad\n- Linea de promedio en ranking\n- Click en errores muestra detalle\n- Correccion de errores"
 }
