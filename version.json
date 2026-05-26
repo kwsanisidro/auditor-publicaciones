@@ -1,19 +1,5 @@
 {
   "version": "1.2.0",
   "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.2.0.exe",
-  "novedades": "Editor automático de propiedades:
-  -Nueva sección integrada en el auditor que permite corregir propiedades directamente en Tokko sin salir del programa
-  -Corrige títulos de publicación y amenities faltantes de forma automática
-  -Abre Chrome y opera Tokko por vos, propiedad por propiedad
-
-  Credenciales seguras
-
-  -Ingresás tu usuario y contraseña de Tokko desde la app
-  -El usuario se recuerda para la próxima vez, la contraseña nunca se guarda
-  -Funciona con cualquier cuenta administrativa de Tokko
-
-  Log en tiempo real
-
-  -Muestra el progreso propiedad por propiedad mientras corre
-  -Resumen final con cantidad de propiedades editadas, saltadas y errores"
+  "novedades": "Editor automatico de propiedades:\n-Nueva seccion integrada para corregir propiedades directamente en Tokko\n-Corrige titulos y amenities automaticamente\n\nCredenciales seguras:\n-Usuario y contrasena ingresados desde la app\n-La contrasena nunca se guarda\n\nLog en tiempo real:\n-Progreso propiedad por propiedad\n-Resumen final con editadas, saltadas y errores"
 }
