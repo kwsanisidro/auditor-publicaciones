@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.2.exe",
+  "version": "1.2.0",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.2.0.exe",
   "novedades": "Editor automático de propiedades:
   -Nueva sección integrada en el auditor que permite corregir propiedades directamente en Tokko sin salir del programa
   -Corrige títulos de publicación y amenities faltantes de forma automática
