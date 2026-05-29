@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.2.0.exe",
-  "novedades": "Editor automatico de propiedades:\n-Nueva seccion integrada para corregir propiedades directamente en Tokko\n-Corrige titulos y amenities automaticamente\n\nCredenciales seguras:\n-Usuario y contrasena ingresados desde la app\n-La contrasena nunca se guarda\n\nLog en tiempo real:\n-Progreso propiedad por propiedad\n-Resumen final con editadas, saltadas y errores"
+  "version": "1.3.1",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.3.1.exe",
+  "novedades": "Agregado la generacion de mails de errores para asesores"
 }
