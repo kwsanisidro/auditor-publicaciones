@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.3.2.exe",
-  "novedades": "Agregado la generacion de mails de errores para asesores"
+  "version": "1.3.3",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.3.3.exe",
+  "novedades": "Cambios en el excel + Valor en Mercadolibre *con errores todavia*"
 }
