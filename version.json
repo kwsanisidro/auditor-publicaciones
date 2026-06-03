@@ -1,5 +1,5 @@
 {
-  "version": "1.3.3",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.3.3.exe",
-  "novedades": "Cambios en el excel + Valor en Mercadolibre *con errores todavia*"
+  "version": "1.4.0",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.4.0.exe",
+  "novedades": "Analisis de mercado rediseñado: usa Zonaprop sin browser, calcula P25/P50/P75 por zona y tipo, genera Excel y Dashboard HTML independientes. Editor corregido: tildado exacto de amenities y mayor estabilidad al editar titulos. Dashboard: colores de ranking corregidos, clasificacion de zonas mejorada (GBA Norte/Sur/Oeste/Otras). General: acceso directo sin reverificar API key, columnas de precio separadas en Excel."
 }
