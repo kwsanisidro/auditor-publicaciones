@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.4.2.exe",
-  "novedades": "Nuevo calculo de valor x m2. Inconsistencia en los casos mal cargados en zonaprop."
+  "version": "1.4.5",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.4.5.exe",
+  "novedades": "Analisis de mercado 100% funcional. Retoques en el html."
 }
