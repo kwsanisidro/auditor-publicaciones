@@ -1,5 +1,5 @@
 {
-  "version": "1.4.7",
-  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.4.7.exe",
-  "novedades": "Analisis de mercado 100% funcional. Html mejorado. Posibilidad de cruzar cantidad de consultas descargadas de tokko via excel."
+  "version": "1.4.9",
+  "url_descarga": "https://github.com/kwsanisidro/auditor-publicaciones/releases/latest/download/AuditorDePublicaciones_Setup_v1.4.9.exe",
+  "novedades": "Arreglos criticos en corrector de propiedades. Reporte en nueva hoja excel de correciones disponibles para ejecutar automaticamente. Mejoras en analisis de mercado: Nuevo directorio de ZP para evitar busquedas genericas, minimo de 10 propiedades para detectar valor sino fallback a zona mas amplia (En campos no, por bajo stock. Barrio cerrados solo fallback a barrios cerrados del partido). Beta mejorador de fotos: Posibilidad de selecionar propiedades para hacer: Funciones de reescalado x2 y sharpness ok. Iluminacion poco practico, posiblemente eliminado en version siguiente. Queda pendiente para version siguiente scraping de mercado mejorado en argenprop."
 }
